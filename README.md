@@ -1,89 +1,155 @@
-<h1 align="center">🎮 Harshit Gupta</h1>
 <p align="center">
-  Building with Python, exploring AI, and creating games with Unity.
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:7C3AED&height=220&section=header&text=HARSHIT%20GUPTA&fontSize=48&fontColor=ffffff&desc=COMPUTER%20VISION%20%2F%20ROBOTICS%20%2F%20CODE&descSize=16&descAlignY=70" alt="Harshit Gupta — Computer Vision, Robotics, Code" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/harshit-xcode?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=700&lines=INITIALIZING+DEVELOPER+MODE...;Current+missions%3A+OpenCV+%2F+YOLO+%2F+ROS+2;Build.+Debug.+Learn.+Repeat." alt="Current missions: OpenCV, YOLO, ROS 2" />
 </p>
 
-## 🕹️ Start Screen
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-COMPUTER_VISION-00FF9C?style=for-the-badge&labelColor=0D1117" alt="Focus: Computer Vision" />
+  <img src="https://img.shields.io/badge/EXPLORING-ROBOTICS-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Exploring Robotics" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING-38BDF8?style=for-the-badge&labelColor=0D1117" alt="Mode: Building" />
+</p>
 
-```text
-PLAYER       Harshit Gupta / harshit-xcode
-BUILD ZONES  AI applications + game development
-MAIN QUEST   Turn ideas into useful, playable experiences
-BUILD LOOP   explore → build → test → improve
-LOADOUT      Python · Streamlit · SQLite · C# · Unity
+---
+
+## `> whoami`
+
+```console
+┌──[harshit-xcode@github]─[~/profile]
+└─$ cat player.conf
+
+NAME          Harshit Gupta
+CURRENT_WORK  OpenCV · YOLO · ROS 2
+BUILD_ZONES   Computer vision · AI applications · Games
+MISSION       Explore how software sees and interacts with the world
+WORKFLOW      Experiment → Build → Debug → Repeat
 ```
 
-Welcome to my corner of GitHub.
+I'm exploring computer vision and robotics while building
+AI applications and interactive games.
 
-My projects span an AI-powered credit ledger for local shops
-and a robot-programming puzzle game. This is where I share
-what I build and what I learn along the way.
+Currently working with **OpenCV, YOLO, and ROS 2**.
 
-## ⚡ Player Stats
+## `> missions --active`
 
-| AI & Applications | Game Development | Learning Log |
-| :---: | :---: | :---: |
-| Working with handwritten data, conversational interfaces, and Python applications. | Building interactive mechanics and command-based puzzles with Unity and C#. | Exploring ideas through projects and documenting the process. |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🌍 World Map
+### 👁️ VISION LAB
+**OpenCV**
 
-| World | What’s inside | Portal |
-|---|---|---|
-| **Udhaar Khata AI** | A Streamlit app that reads handwritten credit registers, tracks customer balances, drafts WhatsApp reminders, and supports text or voice questions. | [Source](https://github.com/harshit-xcode/MLH-31OCT26) |
-| **Joysticks USAR** | A 3D robot-programming puzzle game. Arrange Walk and Jump commands, repeat your sequence, and guide the robot to the goal. | [Source](https://github.com/harshit-xcode/Joysticks-USAR) |
+Working with images, video, and visual information.
 
-### Featured Build: Udhaar Khata AI
+`[ ACTIVE ]`
 
-From a handwritten khata page to a searchable digital ledger.
+</td>
+<td width="33%" valign="top">
 
-- 📷 Extract entries from uploaded register photos.
-- 📒 Track balances, payments, and customer history.
-- 💬 Prepare WhatsApp payment reminders.
-- 🎙️ Ask questions through text or voice.
+### 🎯 DETECTION LAB
+**YOLO**
 
-[🚀 Open the app](https://udhaar4khata.streamlit.app)
+Exploring object detection and scene understanding.
 
-## 🌳 Skill Tree
+`[ ACTIVE ]`
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 ROBOTICS LAB
+**ROS 2**
+
+Exploring the building blocks of robotics software.
+
+`[ ACTIVE ]`
+
+</td>
+</tr>
+</table>
+
+## `> inventory --tech`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,unity,sqlite,github&theme=dark" alt="Python, C sharp, Unity, SQLite, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,ros,cs,unity,sqlite,github&theme=dark&perline=7" alt="Python, OpenCV, ROS, C#, Unity, SQLite, GitHub" />
 </p>
 
-| Branch | Tools used in my projects |
-|---|---|
-| Application building | Python, Streamlit |
-| AI integration | Google GenAI SDK |
-| Data storage | SQLite |
-| Game building | Unity, C# |
-| Project hosting | GitHub |
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&labelColor=0D1117" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-Object_Detection-00FF9C?style=for-the-badge&labelColor=0D1117" alt="YOLO" />
+  <img src="https://img.shields.io/badge/ROS_2-Robotics-38BDF8?style=for-the-badge&labelColor=0D1117" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Streamlit-AI_Apps-FF4B4B?style=for-the-badge&labelColor=0D1117" alt="Streamlit" />
+</p>
 
-## 📜 Quest Log
+| Skill branch | Loadout |
+| :--- | :--- |
+| **Vision & perception** | OpenCV, YOLO |
+| **Robotics** | ROS 2 |
+| **Application development** | Python, Streamlit, SQLite |
+| **Game development** | Unity, C# |
 
-| Quest | Evidence |
-|---|---|
-| Build an AI-powered application | [Udhaar Khata AI](https://github.com/harshit-xcode/MLH-31OCT26) |
-| Create a robot-programming game | [Joysticks USAR](https://github.com/harshit-xcode/Joysticks-USAR) |
-| Document projects so others can explore them | Project READMEs and setup guides |
+## `> ls ~/projects`
 
-## 📊 Live Scoreboard
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Explore my latest repositories and contribution activity:
+### 📒 UDHAAR KHATA AI
+**Handwritten registers → digital ledger**
 
-[Repositories](https://github.com/harshit-xcode?tab=repositories) ·
-[Contribution activity](https://github.com/harshit-xcode#year-list-container)
+An AI-powered application for reading credit-register
+photos, tracking balances, preparing WhatsApp reminders,
+and answering questions through text or voice.
 
-## 📡 Signal Network
+`Python` `Streamlit` `SQLite` `Google GenAI SDK`
 
-[![GitHub](https://img.shields.io/badge/GitHub-harshit--xcode-181717?style=for-the-badge&logo=github)](https://github.com/harshit-xcode)
+[ **VIEW SOURCE →** ](https://github.com/harshit-xcode/MLH-31OCT26)
+
+[ **OPEN APP ↗** ](https://udhaar4khata.streamlit.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 JOYSTICKS USAR
+**Program the robot. Solve the level.**
+
+A 3D puzzle game built around repeating command
+sequences. Arrange Walk and Jump commands to guide
+a robot across tiles and reach the goal.
+
+`Unity` `C#` `Game Development`
+
+[ **VIEW SOURCE →** ](https://github.com/harshit-xcode/Joysticks-USAR)
+
+</td>
+</tr>
+</table>
+
+## `> journal --latest`
+
+```text
+[●] Working with OpenCV
+[●] Exploring object detection with YOLO
+[●] Learning and experimenting with ROS 2
+[↗] Connecting ideas across vision, software, and robotics
+```
+
+## `> connect`
+
+<p align="center">
+  <a href="https://github.com/harshit-xcode">
+    <img src="https://img.shields.io/badge/GITHUB-harshit--xcode-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub: harshit-xcode" />
+  </a>
+  <a href="https://github.com/harshit-xcode?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-00FF9C?style=for-the-badge&labelColor=0D1117" alt="Explore projects" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <b>💾 GAME SAVED — keep building, keep learning.</b>
+  <code>SYSTEM ONLINE • NEXT BUILD LOADING...</code>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00FF9C&height=100&section=footer" alt="Neon wave footer" />
